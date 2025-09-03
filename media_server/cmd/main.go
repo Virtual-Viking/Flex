@@ -14,9 +14,9 @@ import (
 	"github.com/joho/godotenv"
 	"go.uber.org/zap"
 
-	"github.com/yourusername/flex/media_server/internal/config"
-	"github.com/yourusername/flex/media_server/internal/api/routes"
-	"github.com/yourusername/flex/media_server/pkg/database"
+	"github.com/Virtual-Viking/flex/flex/media_server/internal/config"
+	"github.com/Virtual-Viking/flex/flex/media_server/internal/api/routes"
+	"github.com/Virtual-Viking/flex/flex/media_server/pkg/database"
 )
 
 func main() {
